@@ -1,0 +1,2 @@
+include 'fs-ejbservice'
+include 'fs-weblayer'
